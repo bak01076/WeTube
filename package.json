@@ -1,0 +1,22 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "cloning utube with VanillaJS and nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bak01076/WeTube.git"
+  },
+  "author": "Jongok Yoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bak01076/WeTube/issues"
+  },
+  "homepage": "https://github.com/bak01076/WeTube#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
